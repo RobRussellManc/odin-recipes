@@ -1,0 +1,28 @@
+/* styles.css */
+
+.page_header {
+    background: lightgreen;
+    font-weight: 22;
+    font-family: "Courier New", monospace;
+    text-align: center;
+    text-decoration: underline;
+}
+
+a {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    rotation: 15
+}
+
+h3 {
+    color: red;
+}
+
+h4 {
+    color: blue;
+}
+
+li {
+    text-decoration-style: dotted;
+    color:brown
+}
