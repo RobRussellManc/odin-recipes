@@ -8,6 +8,34 @@
     text-decoration: underline;
 }
 
+.recipe_box {
+    display: inline;
+    background: lightgrey;
+    border: 1px solid green;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+.steps {
+    width: 400px;
+    margin-left: 30px;
+    margin-top: 5px;
+    background: lightgrey;
+    border: 1px solid green;
+    padding: 15px;
+    border-radius: 25px;   
+}
+
+.ingredients_list {
+    display: inline-flex;
+    background: rgb(68, 63, 45);
+    border: 1px solid green;
+    margin: 5px;
+    padding: 15px;
+ 
+}
+
 a {
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -15,14 +43,14 @@ a {
 }
 
 h3 {
-    color: red;
+    color: #000000;
 }
 
 h4 {
-    color: blue;
+    color: rgb(60, 182, 182);
 }
 
 li {
     text-decoration-style: dotted;
-    color:brown
+    color:rgb(167, 147, 147)
 }
